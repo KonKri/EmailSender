@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmailSender.Api": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ApiKey": "77java&&"
+      }
+    }
+  }
+}
